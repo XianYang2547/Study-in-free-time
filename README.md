@@ -1,14 +1,10 @@
-<p align="left">
-  <a href [https://github.com/XianYang2547/Home-Page]">
-  <img src="https://img.shields.io/badge/Author-@XianYang-000000.svg?logo=GitHub" alt="GitHub"></a>
+# <p align="center">🥺🥺</p>
 
-<p align="center">🍄空余时间的学习🍄</p>
-<p align="center">🍄全手动实现代码🍄</p>
-<br>
-1.学习MTCNN<br>
-2.学习YOLOv3<br>
-3.根据飞桨项目实现骨龄检测<br>
-4.根据飞桨项目实现行人跌倒检测<br>
+用自己实现的Unet实现两个小数据集[chipdata](https://pan.baidu.com/s/1-XB5b_z0azjCM6ioK2jyzg?pwd=2547):blush:[eyedata](https://pan.baidu.com/s/1LIGWnqbyqQRCl8bLGNKFKQ?pwd=2547)的分割，细节注释在code中\
+VOC分割数据mini版[voc_small_seg_data](https://pan.baidu.com/s/1uvpykXJ798cZK6dALzPvTg?pwd=2547),用的u2net
+
+
+
 
 
 

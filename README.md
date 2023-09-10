@@ -4,8 +4,8 @@
 
 <p align="center">🍄空余时间的学习🍄</p>
 <br>
-#1.学习MTCNN<br>
-#2.学习YOLOv3<br>
+# 1.学习MTCNN<br>
+# 2.学习YOLOv3<br>
 
 
 

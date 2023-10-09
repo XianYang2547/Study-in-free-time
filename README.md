@@ -31,6 +31,9 @@
 1. 
 
 ## 结果
+<p align="center"> 
+<img src="image/2.jpg">
+</p>
 
 ## Reference
 - [AXera-Pi爱芯派](https://wiki.sipeed.com/ai/zh/deploy/ax-pi.html)

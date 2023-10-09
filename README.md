@@ -4,7 +4,7 @@
 
 <p align="center">记录AX620A使用</p>
 
-## 目录结构
+## 目录
 ```
 .
 ├─config
@@ -22,7 +22,18 @@
    └─ball.joint                               转为AX620A需要的joint模型文件
 ```
 
+## 流程
 
+<p align="center"> 
+<img src="image/workflow.png">
+</p>
+
+## 说明
+1. 
+
+## Reference
+- [AXera-Pi爱芯派](https://wiki.sipeed.com/ai/zh/deploy/ax-pi.html)
+- [AXear Pulsar工具链](https://pulsar-docs.readthedocs.io/zh_CN/latest/)
 
 
 

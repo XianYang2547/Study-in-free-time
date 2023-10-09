@@ -2,22 +2,24 @@
   <a href [https://github.com/XianYang2547]">
   <img src="https://img.shields.io/badge/Author-@XianYang-000000.svg?logo=GitHub" alt="GitHub"></a>
 
-<p align="center">🍄</p>
-<br>
+<p align="center">记录AX620A使用</p>
+
 ## 目录结构
 ```
 .
 ├─config
-├─dataset
+│  └─config.prototxt                        根据官网说明配置
+│  └─config_out.prototxt
+├─dataset                                    
+│  └─test.tar                                数据集
 ├─gt
 ├─images
-├─inference_report
-│  └─part_0.lava
-│      ├─subgraph_0
-│      ├─subgraph_1
-│      ├─subgraph_2
-│      └─subgraph_3
-└─model
+│  └─3799794b483fc2b50a985d167fbfd893.jpeg   几张图像
+│  └─....
+├─model                                       
+   └─best.onnx                                训练后转换的onnx文件
+   └─ball.lava_joint
+   └─ball.joint                               转为AX620A需要的joint模型文件
 ```
 
 

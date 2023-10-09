@@ -2,19 +2,15 @@
   <a href [https://github.com/XianYang2547]">
   <img src="https://img.shields.io/badge/Author-@XianYang-000000.svg?logo=GitHub" alt="GitHub"></a>
 
-<p align="center">🍄空余时间的学习🍄</p>
-<p align="center">🍄</p>
+
 <br>
-1.学习MTCNN<br>
-2.学习YOLOv3<br>
-3.根据飞桨项目实现骨龄检测<br>
-4.分割小实验<br>
-5.NLP浅试<br>
-6.根据飞桨项目实现PCB瑕疵检测<br>
-7.记录一下之前使用AX620A板子的情况<br>
-8.尝试简单的Libtorch使用
 
 
 
 
 
+1.安装vs2019，选择使用c++的桌面开发<br>
+2.在pytorch官网下载libtorch-cpu，[OpenCV](https://opencv.org/)官网下载opencv<br>
+3.打开CLion，新建项目，选择c++可执行文件<br>
+4.在CLion设置中，工具链使用vs环境，CMake构建类型为Release<br>
+5.

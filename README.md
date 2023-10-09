@@ -25,7 +25,7 @@
 ## 流程
 
 <p align="center"> 
-<img src="image/workflow.png">
+<img src="image/1.png">
 </p>
 
 ## 说明

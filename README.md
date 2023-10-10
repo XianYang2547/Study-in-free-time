@@ -5,8 +5,8 @@
 <p align="center">🍄空余时间的学习🍄</p>
 <p align="center">🍄</p>
 <br>
-1.学习MTCNN<br>
-2.学习YOLOv3<br>
+- [x] 学习MTCNN<br>
+- [x] 学习YOLOv3<br>
 3.根据飞桨项目实现骨龄检测<br>
 4.分割小实验<br>
 5.NLP浅试<br>

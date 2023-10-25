@@ -11,12 +11,14 @@
 
 ## 准备工作
 * [先刷鸡](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit)
-* 
 
+## 使用流程
++ 先跑一下demo熟悉，[Hello AI World](https://github.com/dusty-nv/jetson-inference),YouTuBe上有视频
++ 
 
-## 使用说明
-
-6. 结果：
+## 其他问题
+1. 跑demo的时候，摄像头调用问题
+2. 
 
 <p align="center"> 
 <img src="image/265413658.PNG">

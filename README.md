@@ -21,13 +21,12 @@
 2. 
 
 <p align="center"> 
-<img src="image/265413658.PNG">
+<img src="image/ball.jpg">
 </p>
 
 
 ## Reference
-- [https://github.com/dlunion/DBFace](https://github.com/dlunion/DBFace)
-- [https://github.com/liuzhuang13/DenseNet](https://github.com/liuzhuang13/DenseNet)
+
 
 
 

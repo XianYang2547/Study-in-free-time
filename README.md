@@ -12,7 +12,7 @@
 - [x] 根据飞桨项目实现PCB瑕疵检测<br>
 - [x] 记录一下之前使用AX620A板子的情况<br>
 - [x] 尝试简单的Libtorch使用
-- [x] Jetson nano部署yolov8模型
+- [x] Jetson nano部署yolov8篮球检测模型
 
 
 
